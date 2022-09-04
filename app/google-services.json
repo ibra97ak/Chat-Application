@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "442627182051",
+    "project_id": "messenger-app-35256",
+    "storage_bucket": "messenger-app-35256.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442627182051:android:cb6255b84532db2f3224d6",
+        "android_client_info": {
+          "package_name": "com.ibra.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442627182051-n6qtp7l0m9u6ft1pve5dulhi2hgc8d3p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ibra.messenger",
+            "certificate_hash": "4ddc36a114368e6b77ccf0896398dec79501ee6d"
+          }
+        },
+        {
+          "client_id": "442627182051-vg05le1gq8nc1m6jcrph63e59qgl6i3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiaAHVj-dNvDGNTXG_khG1b2gHN2icxb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442627182051-vg05le1gq8nc1m6jcrph63e59qgl6i3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="4dp">
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/messageRoot"
+        android:layout_gravity="end"
+        android:paddingEnd="16dp"
+        android:paddingStart="16dp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:background="@drawable/send_message"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtTime"
+            android:text="12:12pm"
+            android:gravity="end"
+            android:textColor="@color/white"
+            android:paddingStart="4dp"
+            android:paddingEnd="4dp"
+            android:layout_marginTop="20dp"
+            android:layout_gravity="end|bottom"
+            android:textSize="10sp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtMessage"
+            android:text="how are you?"
+            android:paddingBottom="8dp"
+            android:paddingEnd="4dp"
+            android:paddingStart="4dp"
+            android:textSize="16sp"
+            android:textColor="@color/white"
+            android:layout_gravity="end"
+            android:maxWidth="300dp"/>
+
+    </FrameLayout>
+
+</FrameLayout>

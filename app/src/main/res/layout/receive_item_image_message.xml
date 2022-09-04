@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:padding="4dp">
+
+    <FrameLayout
+        android:id="@+id/receiveMessageRoot"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start">
+        <ImageView
+            android:id="@+id/imgReceiveMessage"
+            android:layout_width="256dp"
+            android:layout_height="wrap_content"
+            android:scaleType="fitCenter"
+            android:padding="15dp"
+            android:layout_marginBottom="8dp"
+            android:src="@drawable/ic_image"
+            android:contentDescription="TODO"
+            android:adjustViewBounds="true"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtReceiveImageTime"
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="12sp"
+            android:textColor="@color/white"
+            android:layout_gravity="start|bottom"
+            tools:text="15/3/2018 3:00 PM"/>
+
+    </FrameLayout>
+
+</FrameLayout>

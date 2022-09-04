@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Kotlin/Kotlin/Messenger/app/libs/Android-Image-Cropper-master.jar!/Android-Image-Cropper-master/cropper/src/main/res/layout/crop_image_activity.xml" value="0.1" />
+        <entry key="..\:/Kotlin/Kotlin/Messenger/app/libs/Android-Image-Cropper-master.jar!/Android-Image-Cropper-master/cropper/src/main/res/layout/crop_image_view.xml" value="0.1" />
+        <entry key="..\:/Kotlin/Kotlin/Messenger/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Kotlin/Kotlin/Messenger/app/src/main/res/drawable/button_background.xml" value="0.1285" />
+        <entry key="..\:/Kotlin/Kotlin/Messenger/app/src/main/res/drawable/button_new_account.xml" value="0.1285" />
+        <entry key="..\:/Kotlin/Kotlin/Messenger/app/src/main/res/drawable/button_sign_in.xml" value="0.1285" />
+        <entry key="..\:/Kotlin/Kotlin/Messenger/app/src/main/res/drawable/chat_search_background.xml" value="0.1285" />
+        <entry key="..\:/Kotlin/Kotlin/Messenger/app/src/main/res/drawable/circle_shape.xml" value="0.1085" />
+        <entry key="..\:/Kotlin/Kotlin/Messenger/app/src/main/res/drawable/ic__search.xml" value="0.1285" />
+        <entry key="..\:/Kotlin/Kotlin/Messenger/app/src/main/res/drawable/ic_back.xml" value="0.1085" />
+        <entry key="..\:/Kotlin/Kotlin/Messenger/app/src/main/res/drawable/ic_chat.xml" value="0.1285" />
+        <entry key="..\:/Kotlin/Kotlin/Messenger/app/src/main/res/drawable/ic_image.xml" value="0.1085" />
+        <entry key="..\:/Kotlin/Kotlin/Messenger/app/src/main/res/drawable/ic_image_floating.xml" value="0.1085" />
+        <entry key="..\:/Kotlin/Kotlin/Messenger/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1085" />
+        <entry key="..\:/Kotlin/Kotlin/Messenger/app/src/main/res/drawable/ic_more.xml" value="0.1085" />
+        <entry key="..\:/Kotlin/Kotlin/Messenger/app/src/main/res/drawable/ic_people.xml" value="0.1085" />
+        <entry key="..\:/Kotlin/Kotlin/Messenger/app/src/main/res/drawable/ic_person.xml" value="0.1" />
+        <entry key="..\:/Kotlin/Kotlin/Messenger/app/src/main/res/drawable/ic_send.xml" value="0.1285" />
+        <entry key="..\:/Kotlin/Kotlin/Messenger/app/src/main/res/drawable/item_navigation_background.xml" value="0.1285" />
+        <entry key="..\:/Kotlin/Kotlin/Messenger/app/src/main/res/drawable/receive_message.xml" value="0.1085" />
+        <entry key="..\:/Kotlin/Kotlin/Messenger/app/src/main/res/drawable/send_message.xml" value="0.1085" />
+        <entry key="..\:/Kotlin/Kotlin/Messenger/app/src/main/res/layout/aaaa.xml" value="0.209375" />
+        <entry key="..\:/Kotlin/Kotlin/Messenger/app/src/main/res/layout/activity_chat.xml" value="0.22" />
+        <entry key="..\:/Kotlin/Kotlin/Messenger/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Kotlin/Kotlin/Messenger/app/src/main/res/layout/activity_profile.xml" value="0.209375" />
+        <entry key="..\:/Kotlin/Kotlin/Messenger/app/src/main/res/layout/activity_sign_in.xml" value="0.209375" />
+        <entry key="..\:/Kotlin/Kotlin/Messenger/app/src/main/res/layout/activity_sign_up.xml" value="0.1953125" />
+        <entry key="..\:/Kotlin/Kotlin/Messenger/app/src/main/res/layout/fragment_chat.xml" value="0.25" />
+        <entry key="..\:/Kotlin/Kotlin/Messenger/app/src/main/res/layout/fragment_chat2.xml" value="0.209375" />
+        <entry key="..\:/Kotlin/Kotlin/Messenger/app/src/main/res/layout/fragment_more.xml" value="0.209375" />
+        <entry key="..\:/Kotlin/Kotlin/Messenger/app/src/main/res/layout/fragment_more2.xml" value="0.209375" />
+        <entry key="..\:/Kotlin/Kotlin/Messenger/app/src/main/res/layout/fragment_people.xml" value="0.209375" />
+        <entry key="..\:/Kotlin/Kotlin/Messenger/app/src/main/res/layout/fragment_people2.xml" value="0.209375" />
+        <entry key="..\:/Kotlin/Kotlin/Messenger/app/src/main/res/layout/item_text_message.xml" value="0.22" />
+        <entry key="..\:/Kotlin/Kotlin/Messenger/app/src/main/res/layout/receive_item_image_message.xml" value="0.209375" />
+        <entry key="..\:/Kotlin/Kotlin/Messenger/app/src/main/res/layout/recipient_item_text_message.xml" value="0.15833333333333333" />
+        <entry key="..\:/Kotlin/Kotlin/Messenger/app/src/main/res/layout/recycler_view_item.xml" value="0.209375" />
+        <entry key="..\:/Kotlin/Kotlin/Messenger/app/src/main/res/layout/send_item_image_message.xml" value="0.209375" />
+        <entry key="..\:/Kotlin/Kotlin/Messenger/app/src/main/res/menu/bottom_menu.xml" value="0.209375" />
+        <entry key="..\:/Kotlin/Kotlin/Messenger/app/src/main/res/menu/main_bottom_navigation.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

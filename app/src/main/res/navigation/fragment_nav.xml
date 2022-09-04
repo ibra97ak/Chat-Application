@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fragment_nav"
+    app:startDestination="@id/itemChatFragment">
+
+    <fragment
+        android:id="@+id/itemChatFragment"
+        android:name="com.ibra.messenger.fragments.ChatFragment"
+        android:label="Chat"
+        tools:layout="@layout/fragment_chat">
+        <action
+            android:id="@+id/action_itemChatFragment_to_itemPeopleFragment"
+            app:destination="@id/itemPeopleFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/itemPeopleFragment"
+        android:name="com.ibra.messenger.fragments.PeopleFragment"
+        android:label="People"
+        tools:layout="@layout/fragment_people">
+        <action
+            android:id="@+id/action_itemPeopleFragment_to_itemMoreFragment"
+            app:destination="@id/itemMoreFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/itemMoreFragment"
+        android:name="com.ibra.messenger.fragments.MoreFragment"
+        android:label="Discover"
+        tools:layout="@layout/fragment_more">
+        <action
+            android:id="@+id/action_itemMoreFragment_to_itemChatFragment"
+            app:destination="@id/itemChatFragment" />
+    </fragment>
+</navigation>
